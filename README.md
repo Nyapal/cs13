@@ -2,8 +2,11 @@
 ##### (Some people say third time is a charm. I say I am tired.)
 
 Goals: 
-* Finally pass this class
-* To not cry during any lectures, quizzes or meetings relating to CS 1.3
+* [ ] Finally pass this class
+* [ ] To not cry during any 
+[ ] _lectures
+[ ] _quizzes
+[ ] _meetings relating to this css
 * Understand the stuff 
 
 
