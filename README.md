@@ -3,11 +3,8 @@
 
 Goals: 
 * [ ] Finally pass this class
-* [ ] To not cry during any 
-_[ ]lectures
-_[ ]quizzes
-_[ ]meetings relating to this css
-[ ] Understand the stuff 
+* [ ] To not cry during any lectures, quizzes or meetings relating to this css
+* [ ] Understand the stuff 
 
 
 #### 1/21
