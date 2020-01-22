@@ -4,10 +4,10 @@
 Goals: 
 * [ ] Finally pass this class
 * [ ] To not cry during any 
-[ ] _lectures
-[ ] _quizzes
-[ ] _meetings relating to this css
-* Understand the stuff 
+_[ ]lectures
+_[ ]quizzes
+_[ ]meetings relating to this css
+[ ] Understand the stuff 
 
 
 #### 1/21
