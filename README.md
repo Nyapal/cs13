@@ -7,5 +7,5 @@ Goals:
 * Understand the stuff 
 
 
-1/21
+#### 1/21
 Today's class is primarily about number bases. This is review for me but I finally get it this time.
