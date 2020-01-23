@@ -3,7 +3,7 @@
 
 Goals: 
 * [ ] Finally pass this class
-* [ ] To not cry during any lectures, quizzes or meetings relating to this css
+* [ ] To not cry during any lectures, quizzes or meetings relating to this class
 * [ ] Understand the stuff 
 
 
